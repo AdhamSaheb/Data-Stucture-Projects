@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523357388 source:m:\data structures projects\project#1\project#1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myhead.h"
+	<math.h>
+	<string.h>
+	"radix.h"
+
+1523353655 m:\data structures projects\project#1\project#1\myhead.h
+
+1523357334 m:\data structures projects\project#1\project#1\radix.h
+

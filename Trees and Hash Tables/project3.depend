@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1526970187 source:m:\data structures projects\project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"utility.h"
+	"tree.h"
+	"hashtable.h"
+
+1526815639 m:\data structures projects\project3\tree.h
+
+1526899554 m:\data structures projects\project3\utility.h
+
+1526563724 source:m:\data structures projects\project3\hashtable..c
+
+1526971765 m:\data structures projects\project3\hashtable.h
+

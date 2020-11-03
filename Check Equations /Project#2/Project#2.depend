@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523353080 source:m:\data structures projects\#2\project#2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"myhead.h"
+	"utilities.h"
+	"functions.h"
+
+1523273782 m:\data structures projects\#2\project#2\myhead.h
+
+1523357083 m:\data structures projects\#2\project#2\functions.h
+
+1523273773 m:\data structures projects\#2\project#2\utilities.h
+
+1522585777 m:\data structures projects\#2\project#2\draw.h
+
+1522582997 m:\data structures projects\#2\project#2\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
